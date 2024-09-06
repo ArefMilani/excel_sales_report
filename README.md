@@ -6,4 +6,4 @@ This project was completed as part of my Excel course. The goal of the project w
 
 - ## Key Insights
 
-  ![Sales Dashboard](Screenshot 2024-09-07 at 00.10.55.png)
+  ![Sales Dashboard](https://github.com/ArefMilani/excel_sales_report/blob/main/Screenshot%202024-09-07%20at%2000.10.55.png)
